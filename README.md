@@ -22,3 +22,5 @@ https://help.github.com/articles/syncing-a-fork/
 
 Reference
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+
+Commit and Push. Check status on top of the project on github.com to see if its all caught up.
